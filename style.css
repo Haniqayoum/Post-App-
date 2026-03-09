@@ -18,10 +18,10 @@ body{
     color: black !important;
     margin-bottom: 30px;
 }
-.logo{
+/* .logo{
     width: 65px;
     height: 65px;
-}
+} */
  .btn{
     background-color: black;
     display: block;
@@ -140,3 +140,4 @@ h6{
     color: grey;
     font-size: small;
 }
+
