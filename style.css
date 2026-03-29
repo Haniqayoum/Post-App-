@@ -18,10 +18,10 @@ body{
     color: black !important;
     margin-bottom: 30px;
 }
-/* .logo{
+.logo{
     width: 65px;
     height: 65px;
-} */
+}
  .btn{
     background-color: black;
     display: block;
@@ -84,6 +84,11 @@ a.navbar-brand {
 .container-fluid{
     padding: 0;
     margin: 0;
+    height: 60px;
+}
+.container-fluid img{
+    width: 50px;
+    height: 50px;
 }
 .form-label.fs-4{
 font-size: large;
@@ -124,7 +129,7 @@ textarea{
     justify-content: right;
 }
 .card-body p{
-font-size: larger;
+font-size: large;
     color: white;
 }
 .card-body h5{
@@ -140,4 +145,7 @@ h6{
     color: grey;
     font-size: small;
 }
-
+img{
+    width: 50px;
+    height: 50px;
+}
